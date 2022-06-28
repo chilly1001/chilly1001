@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chilly1001
 - 👀 I’m interested in collaborating with other students. 
 - 🌱 I’m currently learning C++. 
-- 💞️ I’m looking to collaborate on projects related to C++, Javascript/HTML
+- 💞️ I’m looking to collaborate on projects related to C++, Javascript/HTML. I also want to learn Rust at some point.
 - 📫 How to reach me: http://www.facebook.com/josiah.wright and linkedin.com/in/josiah-wright-5a779631
 
 <!---
